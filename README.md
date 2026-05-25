@@ -98,29 +98,6 @@ I'm a **Full Stack & AI Engineer** with **4+ years** of experience building prod
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mounikakeerthi1010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mounikakeerthi1010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mounikakeerthi1010&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mounikakeerthi1010&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 <!-- SECTION G: ACTIVITY GRAPH -->
 ## 📊 Contribution Activity
 
