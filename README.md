@@ -16,7 +16,7 @@
 
 ## About
 
-Full Stack & AI Engineer with 4 years of experience designing and shipping production systems end to end — React frontends, REST APIs, Kafka-based event-driven microservices, Kubernetes deployments, and increasingly, LLM-powered backends. I'm comfortable across the stack but spend most of my time on the backend and AI layer: building RAG pipelines, semantic retrieval systems, and integrating LLM APIs into real products. I care about systems that are maintainable, observable, and don't break at 3AM.
+Full Stack & AI Engineer with 4 years of experience designing and shipping production systems end to end — React frontends, REST APIs, Kafka-based event-driven microservices, Kubernetes deployments, and increasingly, LLM-powered backends. I'm comfortable across the stack but spend most of my time on the backend and AI layer: building RAG pipelines, semantic retrieval systems, and integrating LLM APIs into real products.
 
 ---
 
