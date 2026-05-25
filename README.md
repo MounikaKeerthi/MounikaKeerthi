@@ -98,15 +98,6 @@ I'm a **Full Stack & AI Engineer** with **4+ years** of experience building prod
 
 ---
 
-<!-- SECTION G: ACTIVITY GRAPH -->
-## 📊 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mounikakeerthi1010&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
 <!-- SECTION H: FOOTER -->
 ## 🤝 Let's Connect
 
